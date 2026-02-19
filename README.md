@@ -54,11 +54,21 @@ school_project/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone repository
+### 1️⃣ ScreenShots
 
-git clone https://github.com/Sujal6724/Student.git
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f531f59c-6303-4dc7-81a3-0185ec9103ca" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b9c170a7-ce57-4c2e-ab04-e36d324e944f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0809dea1-db86-46df-bed5-c1a0e7238964" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9ad30777-7afa-4fff-b7d0-4e12196d75ab" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/131c039a-b9e7-45a9-b128-932e7de92fc0" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/15948db2-f32e-4b84-9992-bb037347367f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/13c9da0a-a44d-4d39-a10b-fcc01e394840" />
 
-cd Student
+
+
+
+
+
 
 
 ### 2️⃣ Create virtual environment
