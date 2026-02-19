@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="row justify-content-center">
+    <div class="col-md-5">
+
+        <div class="card shadow p-4 text-center">
+            <h4>⚠️ Are you sure?</h4>
+
+            <form method="post">
+                {% csrf_token %}
+                <button class="btn btn-danger w-100">Delete</button>
+            </form>
+
+            <a href="{% url 'student_list' %}" class="mt-2 d-block">Cancel</a>
+        </div>
+
+    </div>
+</div>
+
+{% endblock %}
